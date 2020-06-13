@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/carmenscar/Mind_lab_data/blob/master/banner.png" >
+  <img src="" >
 </p>
 
 <sub>*Graduada em Ciências Contábeis e Atuariais pela Universidade de Brasília - UnB. *</sub>
