@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="" >
+  <img src="https://github.com/carmenscar/Mind_lab_data/blob/master/banner.jpg" >
 </p>
 
+# Carmen Salgado Scartezini
 <sub>*Graduada em Ciências Contábeis e Atuariais pela Universidade de Brasília - UnB. *</sub>
 <sub>*Estudande e entusiasta de Data Science*</sub>
 
