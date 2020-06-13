@@ -9,7 +9,7 @@
 **Background in:** Iniciante em Python, Inciante em SQL, Power Bi, Excel.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carmen-salgado/
+* [LinkedIn](https://www.linkedin.com/in/carmen-salgado)
 
 
 ## Projetos:
