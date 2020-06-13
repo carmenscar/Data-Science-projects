@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/carmenscar/Mind_lab_data/blob/master/banner.jpg" >
+  <img src="" >
 </p>
 
 # Carmen Salgado Scartezini
