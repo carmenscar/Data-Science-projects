@@ -13,7 +13,7 @@
 
 ## Projetos:
 * Análise dos Casos de Covid em Brasília: https://bit.ly/3eS5x6Z
-
+* Avaliação Econômica do DF na pandemia por meio de Receitas Tributárias de Impostos : https://bit.ly/30F3ZHM
 ---
 
 
