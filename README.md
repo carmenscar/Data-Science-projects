@@ -5,7 +5,7 @@
 # Carmen Salgado Scartezini
 **Graduada em Ciências Contábeis e Atuariais pela Universidade de Brasília - UnB.**
 
-**Background in:** Excel, Power BI, Python.
+**Background in:** Excel, Power BI, Python, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carmen-salgado)
