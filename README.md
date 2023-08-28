@@ -12,9 +12,9 @@
 
 
 ## Projetos:
-* Análise dos Casos de Covid em Brasília: https://bit.ly/3eS5x6Z (
-* Avaliação Econômica do DF na pandemia por meio de Receitas Tributárias de Impostos : https://bit.ly/2WRsf8q
-* Analyzind Airbnb Data - Rome (28/08/2023)
+* Análise dos Casos de Covid em Brasília: https://bit.ly/3eS5x6Z (06/01/2020)
+* Avaliação Econômica do DF na pandemia por meio de Receitas Tributárias de Impostos : https://bit.ly/2WRsf8q (06/23/2020)
+* Analyzing Airbnb Data - Rome (08/28/2023)
 ---
 
 
