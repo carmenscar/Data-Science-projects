@@ -12,7 +12,7 @@
 
 
 ## Projects:
-* Fake news Classifier (fake_news_classifier-English.ipynb): CNN - **in English**` : Reach Medium article: https://medium.com/@carmenscartezini/fake-news-classification-tensorflow-x-pytorch-2a8f471a3713
+* Fake news Classifier (fake_news_classifier-English.ipynb): CNN - **in English**` : Reach Medium article: https://bit.ly/46bKwyi
 * Fake news Classifier (fake_news-Portuguese.ipynb): CNN - **in Portuguese**`
 * Analyzing Airbnb Data (Analyzing_Airbnb_data_(Rome).ipynb) - **in English**
 * Economic Evaluation of the Federal District during the pandemic through Tax Revenue Analysis  (analiseRtribcovid.ipynb) : https://bit.ly/2WRsf8q - **in Portuguese**
