@@ -3,9 +3,7 @@
 </p>
 
 # Carmen S Scartezini
-**Data Scientist**
-
-**Background in:** Python, SQL , Power Bi, Oracle Analytics.
+**DATA SCIENTIST**
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carmen-salgado)
