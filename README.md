@@ -7,6 +7,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/carmen-salgado)
+* [Medium](https://medium.com/@carmenscartezini)
 
 
 ## Projects:
