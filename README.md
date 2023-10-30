@@ -11,6 +11,7 @@
 
 
 ## Projects:
+* Multi-variate Time series with Deep Learning (RNN_LSTM_CNN.ipynb): **in English**`: Medium article: [https://bit.ly/46bKwyi](https://bit.ly/478YjpY)
 * Fake news Classifier (fake_news_classifier-English.ipynb): **in English**`: Medium article: https://bit.ly/46bKwyi
 * Fake news Classifier (fake_news-Portuguese.ipynb): **in Portuguese**`
 * Fraud Detection (Fraud_detection_feature_selection_and_balancing_data.ipynb): **in English**`: Medium article: https://bit.ly/45iKLa6
